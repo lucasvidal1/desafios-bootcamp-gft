@@ -2,7 +2,7 @@
 www.dio.me
 
 #### Autor
-- [Lucas Vidal](https://github.com/glysns)
+- [Lucas Vidal](https://github.com/lucasvidal1)
 
 ## Diagrama desenvolvido
 
@@ -12,6 +12,8 @@ www.dio.me
 
 
 ## POO - Desafio proposto
+
+- [Repositório do desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
 
 Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
 
